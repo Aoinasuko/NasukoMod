@@ -1,0 +1,8 @@
+author = Aoi_nasuko
+version = 1.1.2.1
+displayName = Nasuko Mod
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.user, obj\*, bin\*, .vs\*
+includePDB = true
